@@ -1,0 +1,20 @@
+html{
+    background-image: url("https://i.pinimg.com/originals/7f/22/bd/7f22bd1107b49b5eac20ce21b80d6489.jpg");
+
+}   
+ body{
+    padding-top: 8ex; 
+    background-image: url("https://i.pinimg.com/originals/7f/22/bd/7f22bd1107b49b5eac20ce21b80d6489.jpg");
+}
+.navbar brand{
+    background-color:#737373;
+}
+.jumbotron{
+    color:#800000;
+    background-image: url("http://www.designbolts.com/wp-content/uploads/2013/02/Rough-Grey-Tilable-Pattern-For-Website-Background.jpg");
+}
+
+.modal-header{
+    background-color: #333333; 
+    color:white;
+}
